@@ -1,0 +1,11 @@
+Steuernagel:
+    - Ajustar direção do caminhar
+        (não andar de costas)
+    
+    Sugestões:
+        - Colocar correr com Shift
+
+Ocimar:
+    - Adicionar trilha sonora
+    - corrigir node vs Cell
+    - corrigir y, x para x, y
